@@ -19,11 +19,11 @@
 <br/>
 
 <a href="https://cdnb.artstation.com/p/assets/images/images/033/643/129/original/ally-gilmour-gif3.gif?1610175305"> 
-  <img align='right' src="https://cdnb.artstation.com/p/assets/images/images/033/643/129/original/ally-gilmour-gif3.gif](https://media4.giphy.com/media/2ipOXiyd3KuwIraVr2/giphy.gif" alt="Gif VaporWave " width="25%">
+  <img align='right' src="https://cdnb.artstation.com/p/assets/images/images/033/643/129/original/ally-gilmour-gif3.gif" alt="Gif VaporWave " width="25%">
 </a>
 
 <a href="https://github.com/PHS-01"> 
-  <img loading="lazy"  height="50%"  src="https://github-readme-stats.vercel.app/api?username=PHS-01&show_icons=true&theme=dracula"/>
+  <img loading="lazy"  height="260px"  src="https://github-readme-stats.vercel.app/api?username=PHS-01&show_icons=true&theme=dracula"/>
 </a>
 
 <br/>
