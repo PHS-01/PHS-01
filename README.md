@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/PHS-01"> 
-  <img loading="lazy"  height="50%"  src="https://github-readme-stats.vercel.app/api?username=PHS-01&show_icons=true&theme=dracula"/>
+  <img loading="lazy"  height="150px"  src="https://github-readme-stats.vercel.app/api?username=PHS-01&show_icons=true&theme=dracula"/>
 </a>
 
 <br/>
