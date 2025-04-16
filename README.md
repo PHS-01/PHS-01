@@ -2,8 +2,6 @@
   <img align='right' src="https://logodownload.org/wp-content/uploads/2018/04/ufrn-logo.png" alt="UFRN Logo" width="10%">
 </a>
 
-<!-- <img align='right' src="https://www.sindmestresbrasil.org.br/wp-content/uploads/2018/05/Fundo-transparente-1900x1900.png" alt="UFRN Logo" width="1%"> --->
-
 <a href="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png"> 
   <img align='right' src="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png" alt="UFRN Logo" width="3.5%">
 </a>
@@ -68,5 +66,5 @@
 ---
 
 <a href="https://github.com/PHS-00"> 
-  <img align='left' src="https://img.shields.io/static/v1?label=Overview&message=PHS-00&color=282A36&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+  <img align='right' src="https://img.shields.io/static/v1?label=Overview&message=PHS-00&color=282A36&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </a>
