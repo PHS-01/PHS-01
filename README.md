@@ -19,7 +19,7 @@
 <br/>
 
 <a href="https://cdnb.artstation.com/p/assets/images/images/033/643/129/original/ally-gilmour-gif3.gif?1610175305"> 
-  <img align='right' src="https://cdnb.artstation.com/p/assets/images/images/033/643/129/original/ally-gilmour-gif3.gif" alt="Gif VaporWave " width="25%">
+  <img align='right' src="https://cdnb.artstation.com/p/assets/images/images/033/643/129/original/ally-gilmour-gif3.gif](https://media4.giphy.com/media/2ipOXiyd3KuwIraVr2/giphy.gif" alt="Gif VaporWave " width="25%">
 </a>
 
 <a href="https://github.com/PHS-01"> 
@@ -66,5 +66,5 @@
 ---
 
 <a href="https://github.com/PHS-00"> 
-  <img align='right' src="https://img.shields.io/static/v1?label=Overview&message=PHS-00&color=282A36&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+  <img align='right' src="https://img.shields.io/static/v1?label=Overview&message=PHS-00&color=44475A&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </a>
