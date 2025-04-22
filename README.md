@@ -12,7 +12,7 @@
 
 ---
 
-<img src="https://i.pinimg.com/originals/7d/2a/9f/7d2a9fca264faa93561f72b5fc885fec.gif" alt="Static GitHub" width="100%">
+<img src="https://i.pinimg.com/originals/7d/2a/9f/7d2a9fca264faa93561f72b5fc885fec.gif" alt="VaporWave" width="100%">
 
 ---
 <br/>
@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/PHS-01"> 
-  <img align='left' loading="lazy"  height="180px"  src="https://github-readme-stats.vercel.app/api?username=PHS-01&show_icons=true&theme=dracula"/>
+  <img loading="lazy"  height="180px"  src="https://github-readme-stats.vercel.app/api?username=PHS-01&show_icons=true&theme=dracula"/>
 </a>
 
 <br/>
