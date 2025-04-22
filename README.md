@@ -19,7 +19,7 @@
 <br/>
 
 <a href="https://cdnb.artstation.com/p/assets/images/images/033/643/129/original/ally-gilmour-gif3.gif?1610175305"> 
-  <img align='center' src="https://pa1.aminoapps.com/6825/34fedeb79321448e0fbfe8686d4df03ab3182ec6_00.gif" alt="Gif VaporWave " width="150px">
+  <img align='right' src="https://pa1.aminoapps.com/6825/34fedeb79321448e0fbfe8686d4df03ab3182ec6_00.gif" alt="Gif VaporWave " width="150px">
 </a>
 
 <a href="https://github.com/PHS-01"> 
@@ -32,7 +32,7 @@
 ---
 
 <a href="https://i.pinimg.com/originals/99/30/d3/9930d34b8c98d97b06ed81b0d6acc064.gif"> 
-  <img align="left" src="https://i.pinimg.com/originals/99/30/d3/9930d34b8c98d97b06ed81b0d6acc064.gif" alt="Gif de um Esqueleto" width="360px">
+  <img align="left" src="https://i.pinimg.com/originals/99/30/d3/9930d34b8c98d97b06ed81b0d6acc064.gif" alt="Gif de um Esqueleto" width="380px">
 </a>
 
 <br/>
