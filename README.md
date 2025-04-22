@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png"> 
-  <img align='right' src="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png" alt="UFRN Logo" width="80px">
+  <img align='right' src="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png" alt="IFRN Logo" width="40px">
 </a>
 
 <a href="https://github.com/PHS-01"> 
