@@ -1,9 +1,9 @@
 <a href="https://logodownload.org/wp-content/uploads/2018/04/ufrn-logo.png"> 
-  <img align='right' src="https://logodownload.org/wp-content/uploads/2018/04/ufrn-logo.png" alt="UFRN Logo" width="10%">
+  <img align='right' src="https://logodownload.org/wp-content/uploads/2018/04/ufrn-logo.png" alt="UFRN Logo" width="80px">
 </a>
 
 <a href="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png"> 
-  <img align='right' src="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png" alt="UFRN Logo" width="3.5%">
+  <img align='right' src="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png" alt="UFRN Logo" width="80px">
 </a>
 
 <a href="https://github.com/PHS-01"> 
