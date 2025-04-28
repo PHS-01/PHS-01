@@ -1,27 +1,3 @@
-<a href="https://logodownload.org/wp-content/uploads/2018/04/ufrn-logo.png"> 
-  <img align='right' src="https://logodownload.org/wp-content/uploads/2018/04/ufrn-logo.png" alt="UFRN Logo" width="10%">
-</a>
-
-<a href="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png"> 
-  <img align='right' src="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png" alt="IFRN Logo" width="3.5%">
-</a>
-
-<a href="https://github.com/PHS-01"> 
-  <img align='left' src="https://img.shields.io/static/v1?label=Overview&message=PHS-01&color=282A36&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-</a>
-
----
-
-<img src="https://i.pinimg.com/originals/7d/2a/9f/7d2a9fca264faa93561f72b5fc885fec.gif" alt="VaporWave" width="100%">
-
----
-<br/>
-<br/>
-
-<a href="https://cdnb.artstation.com/p/assets/images/images/033/643/129/original/ally-gilmour-gif3.gif?1610175305"> 
-  <img align='right' src="https://pa1.aminoapps.com/6825/34fedeb79321448e0fbfe8686d4df03ab3182ec6_00.gif" alt="Gif VaporWave " width="150px">
-</a>
-
 <!-- Logo da UFRN -->
 <a href="https://logodownload.org/wp-content/uploads/2018/04/ufrn-logo.png"> 
   <img align="right" src="https://logodownload.org/wp-content/uploads/2018/04/ufrn-logo.png" alt="UFRN Logo" width="10%" loading="lazy">
