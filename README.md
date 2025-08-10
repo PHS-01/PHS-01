@@ -12,6 +12,8 @@
 
 # Olá, eu sou Pedro 👋
 
+<img src="assets/profile_picture_avatar_sun.svg" alt="Minha foto" width="35%" align="right" />
+
 <!-- Container para alinhar imagem e texto -->
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
   <div style="flex: 1; margin-top: 10%">
@@ -22,12 +24,7 @@
     Atualmente estudo Bacharelado em Sistemas de Informação na UFRN e sou ex-aluno do IFRN, formado em Ensino Médio Integrado em Informática para Internet.
     </p>
   </div>
-  
-<img src="assets/profile_picture_avatar_sun.svg" alt="Minha foto" width="35%" />
-
 </div>
-
-
 
 ## Skills
 
