@@ -23,7 +23,7 @@
     </p>
   </div>
   
-<img src="assets/profile_picture_avatar_sun.svg" alt="Minha foto" width="35%" align="right" />
+<img src="assets/profile_picture_avatar_sun.svg" alt="Minha foto" width="35%" />
 
 </div>
 
@@ -74,13 +74,3 @@
 </p>
 
 ---
-
-<!-- Logos alinhadas à direita com espaçamento -->
-<div style="display: flex; justify-content: flex-end; gap: 15px; margin-bottom: 20px;">
-  <a href="https://ifrn.edu.br" title="Site do IFRN" style="margin-top: 10px;">
-    <img src="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png" alt="IFRN Logo" width="40" />
-  </a>
-  <a href="https://ufrn.br" title="Site da UFRN" style="margin-top: 20px;">
-    <img src="https://logodownload.org/wp-content/uploads/2018/04/ufrn-logo.png" alt="UFRN Logo" width="80" />
-  </a>
-</div>
