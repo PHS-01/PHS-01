@@ -14,17 +14,20 @@
 
 <!-- Container para alinhar imagem e texto -->
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <div style="flex: 1;">
+  <div style="flex: 1; margin-top: 10%">
+    <p>
     Olá, eu sou <b>Pedro Henrique da Silva</b>, desenvolvedor Full Stack e designer gráfico.
-    <br>
+    </p>
+    <p>
     Atualmente estudo Bacharelado em Sistemas de Informação na UFRN e sou ex-aluno do IFRN, formado em Ensino Médio Integrado em Informática para Internet.
+    </p>
   </div>
   
-<img src="https://raw.githubusercontent.com/PHS-01/PHS-01/main/assets/profile_picture_avatar_sun.svg" alt="Minha foto" width="200" />
+<img src="assets/profile_picture_avatar_sun.svg" alt="Minha foto" width="35%" align="right" />
 
 </div>
 
----
+
 
 ## Skills
 
@@ -73,8 +76,8 @@
 ---
 
 <!-- Logos alinhadas à direita com espaçamento -->
-<div style="display: flex; justify-content: flex-end;">
-  <a href="https://ifrn.edu.br" title="Site do IFRN" style="margin-top: 10px; margin-right: 5px;">
+<div style="display: flex; justify-content: flex-end; gap: 15px; margin-bottom: 20px;">
+  <a href="https://ifrn.edu.br" title="Site do IFRN" style="margin-top: 10px;">
     <img src="https://ugc.production.linktr.ee/dbcdb634-07dd-40fa-ac41-6ca31085553b_IFRN-LOGO.png" alt="IFRN Logo" width="40" />
   </a>
   <a href="https://ufrn.br" title="Site da UFRN" style="margin-top: 20px;">
