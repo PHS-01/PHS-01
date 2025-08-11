@@ -39,8 +39,6 @@ Atualmente estudo Bacharelado em Sistemas de Informação na UFRN e sou ex-aluno
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" /></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" /></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" /></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" /></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON" /></code>
 </p>
 
 ##### Frameworks  
