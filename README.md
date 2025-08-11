@@ -12,21 +12,18 @@
 
 # Olá, eu sou Pedro 👋
 
-<div style="margin-bottom: 20px">
 <img src="assets/profile_picture_avatar_sun.svg" alt="Minha foto" width="35%" align="right" />
-</div>
 
 <!-- Container para alinhar imagem e texto -->
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <div style="flex: 1; margin-top: 10%">
+<div style="margin-top: 10%; margin-bottom: 10%;">
     <p>
     Olá, eu sou <b>Pedro Henrique da Silva</b>, desenvolvedor Full Stack e designer gráfico.
     </p>
     <p>
     Atualmente estudo Bacharelado em Sistemas de Informação na UFRN e sou ex-aluno do IFRN, formado em Ensino Médio Integrado em Informática para Internet.
     </p>
-  </div>
 </div>
+
 
 ## Skills
 
