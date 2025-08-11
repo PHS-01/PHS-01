@@ -12,7 +12,9 @@
 
 # Olá, eu sou Pedro 👋
 
+<div style="margin-bottom: 20px">
 <img src="assets/profile_picture_avatar_sun.svg" alt="Minha foto" width="35%" align="right" />
+</div>
 
 <!-- Container para alinhar imagem e texto -->
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
