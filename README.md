@@ -25,6 +25,9 @@ Atualmente estudo Bacharelado em Sistemas de Informação na UFRN e sou ex-aluno
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 ## Skills
 
