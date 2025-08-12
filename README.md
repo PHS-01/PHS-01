@@ -7,7 +7,7 @@
 
 <!-- Badge GitHub alinhado à esquerda -->
 <a href="https://github.com/PHS-01" title="Perfil GitHub" >
-<img align="right" src="https://img.shields.io/static/v1?label=Overview&message=PHS-01&color=282A36&style=for-the-badge&logo=GitHub" alt="Static GitHub Badge" />
+<img align="right" src="https://img.shields.io/static/v1?label=Overview&message=PHS-01&color=282A36&style=for-the-badge&logo=GitHub" alt="Static GitHub Badge" width="25%" />
 </a>
 
 # Olá, eu sou Pedro 👋
@@ -22,8 +22,6 @@ Olá, eu sou <b>Pedro Henrique da Silva</b>, desenvolvedor Full Stack e designer
 Atualmente estudo Bacharelado em Sistemas de Informação na UFRN e sou ex-aluno do IFRN, formado em Ensino Médio Integrado em Informática para Internet.
 </p>
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
